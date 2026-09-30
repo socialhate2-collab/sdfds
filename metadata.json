@@ -1,0 +1,6 @@
+{
+  "name": "SlamMetrics Studio",
+  "description": "Panel personal para generar videos verticales 9:16, carruseles e imágenes de rankings de baloncesto para redes sociales con diseño unificado y sincronización con Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
